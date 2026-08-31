@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Something+changed%2C+we%27re+not+sure+why...;That%27s+usually+where+the+fun+starts.;Turning+messy+questions+into+clear+decisions." alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%22Something+changed%2C+we%27re+not+sure+why...%22+—+every+stakeholder%2C+ever;That%27s+usually+where+the+fun+starts.;Turning+messy+questions+into+clear+decisions." alt="Typing SVG" />  </a>
 </p>
 
 <br>
