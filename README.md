@@ -5,12 +5,14 @@
 <h1 align="center">Hi, I'm Rishita 👋</h1>
 
 <p align="center">
-  <i>I'm most at home in the moment a stakeholder says "something changed, we're not sure why" — that's usually where the fun starts.</i>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Something+changed%2C+we%27re+not+sure+why...;That%27s+usually+where+the+fun+starts.;Turning+messy+questions+into+clear+decisions." alt="Typing SVG" />
+  </a>
 </p>
 
 <br>
 
-Computer Engineering background, a Master's in Quantitative Management from Duke, and a genuine love for spreadsheets that has, at times, bordered on unhealthy. I like turning messy questions into something people can actually act on — not just prettier dashboards.
+Computer Engineering background, a Master's in Quantitative Management from Duke, and a genuine love for spreadsheets that has, at times, bordered on unhealthy. I like turning messy questions into something people can actually act on - not just prettier dashboards.
 
 * 🔭 Currently exploring problems in **analytics, experimentation, and BI**
 * 🧠 I enjoy figuring out *why* a number moved — and what to do about it next
@@ -40,8 +42,20 @@ Computer Engineering background, a Master's in Quantitative Management from Duke
 
 <br>
 
+### 🤝 Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/rishitamantri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
 <p align="center">
   <i>Somewhere between <b>"what does the data say?"</b> and <b>"okay, but what should we actually do about it?"</b></i>
 </p>
 
-<p align="center">✨</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</p>
