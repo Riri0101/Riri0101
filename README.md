@@ -13,7 +13,7 @@
 Computer Engineering background, a Master's in Quantitative Management from Duke, and a genuine love for spreadsheets that has, at times, bordered on unhealthy. I like turning messy questions into something people can actually act on — not just prettier dashboards.
 
 - 🔭 Currently exploring problems in analytics, experimentation, and BI
-- 🧠 I enjoy figuring out *why* a number moved — and what to do about it next
+- 🧠 I enjoy figuring out *why* a number moved and what to do about it next
 - ✨ Rule I try to follow: good analytics should make a decision easier, not just make a chart nicer
 
 <br>
