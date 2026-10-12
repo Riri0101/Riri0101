@@ -22,11 +22,8 @@ Computer Engineering background and a Master’s in Quantitative Management from
 
 | Project | What it does | Tools |
 |---|---|---|
-| [Buyer Churn & Retention Analytics](YOUR-REPO-LINK) | Classification models on 77K+ users to flag churn risk and rethink when to intervene | Python, Pandas, Scikit-learn |
-| [Global Portfolio Revenue Analysis](YOUR-REPO-LINK) | Executive dashboards on $112.3M in gross profit across 66 stores, flagging 17 at-risk stores | Tableau, Excel |
-| [Image-to-Speech for Visually Impaired Users](YOUR-REPO-LINK) | Deep learning system that describes images out loud, reaching 91.4% accuracy | Python, TensorFlow |
-| [Fabric Defect Detection](YOUR-REPO-LINK) | CNN and ResNet models classifying six fabric defect types across 48,000 images | Python, TensorFlow |
-
+| [Global Portfolio Revenue Analysis](https://github.com/Riri0101/Portfolio_Analysis) | Executive dashboards on $112.3M in gross profit across 66 stores, flagging 17 at-risk stores | Tableau, Excel |
+| [Undergraduate Research](https://github.com/Riri0101/undergraduate-research/tree/main) | Three deep learning papers, including one presented at ICAML 2024: AI fashion design, image-to-speech and fabric defect detection | Python, PyTorch, TensorFlow |
 <br>
 
 ### 🛠️ Reach for
