@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
 </p>
 
-Computer Engineering background, a Master's in Quantitative Management from Duke, and a genuine love for spreadsheets that has, at times, bordered on unhealthy. I like turning messy questions into something people can actually act on, not just prettier dashboards.
+Computer Engineering background and a Master’s in Quantitative Management from Duke. I’m most interested in the people behind the numbers: how customers behave, why products succeed or stall, and what the data says we should do next.
 
 - 🤖 Currently building AI agents that automate financial analysis and reporting at Storied Data
 - 🧠 I enjoy figuring out *why* a number moved and what to do about it next
