@@ -10,11 +10,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
 </p>
 
-Computer Engineering background, a Master's in Quantitative Management from Duke, and a genuine love for spreadsheets that has, at times, bordered on unhealthy. I like turning messy questions into something people can actually act on — not just prettier dashboards.
+Computer Engineering background, a Master's in Quantitative Management from Duke, and a genuine love for spreadsheets that has, at times, bordered on unhealthy. I like turning messy questions into something people can actually act on, not just prettier dashboards.
 
-- 🔭 Currently exploring problems in analytics, experimentation, and BI
+- 🤖 Currently building AI agents that automate financial analysis and reporting at Storied Data
 - 🧠 I enjoy figuring out *why* a number moved and what to do about it next
 - ✨ Rule I try to follow: good analytics should make a decision easier, not just make a chart nicer
+
+<br>
+
+### 📂 Featured projects
+
+| Project | What it does | Tools |
+|---|---|---|
+| [Buyer Churn & Retention Analytics](YOUR-REPO-LINK) | Classification models on 77K+ users to flag churn risk and rethink when to intervene | Python, Pandas, Scikit-learn |
+| [Global Portfolio Revenue Analysis](YOUR-REPO-LINK) | Executive dashboards on $112.3M in gross profit across 66 stores, flagging 17 at-risk stores | Tableau, Excel |
+| [Image-to-Speech for Visually Impaired Users](YOUR-REPO-LINK) | Deep learning system that describes images out loud, reaching 91.4% accuracy | Python, TensorFlow |
+| [Fabric Defect Detection](YOUR-REPO-LINK) | CNN and ResNet models classifying six fabric defect types across 48,000 images | Python, TensorFlow |
 
 <br>
 
@@ -29,11 +40,11 @@ Computer Engineering background, a Master's in Quantitative Management from Duke
 
 ### 📊 Also comfortable with
 <p>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 <br>
@@ -42,6 +53,9 @@ Computer Engineering background, a Master's in Quantitative Management from Duke
 <p>
   <a href="https://www.linkedin.com/in/rishitamantri/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rishita.mantri@duke.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
